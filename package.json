@@ -1,0 +1,58 @@
+{
+  "name": "kato-pos",
+  "version": "4.0.0",
+  "description": "Discord Bot Template, only for Perkumpulan Orang Santai.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "axios": "^0.19.2",
+    "cpu-stat": "^2.0.1",
+    "dateformat": "^3.0.3",
+    "discord-logs": "^1.7.7",
+    "discord-player": "^2.3.1",
+    "discord.js": "^12.3.1",
+    "discord.js-minesweeper": "^1.0.6",
+    "file-type": "^15.0.1",
+    "g-i-s": "^2.1.6",
+    "got": "^11.5.2",
+    "lodash": "^4.17.19",
+    "mangadex-full-api": "^3.10.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "0.0.7",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "readline-sync": "^1.4.10",
+    "saucenao": "0.0.2",
+    "string-template": "^1.0.0",
+    "yargs-parser": "^19.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatowProject/Kato-Bot.git"
+  },
+  "keywords": [
+    "bot",
+    "moderation",
+    "music",
+    "fun"
+  ],
+  "author": "KatowProject-ManLord#3143",
+  "bugs": {
+    "url": "https://github.com/KatowProject/Kato-Bot/issues"
+  },
+  "homepage": "https://github.com/KatowProject/Kato-Bot#readme"
+}
